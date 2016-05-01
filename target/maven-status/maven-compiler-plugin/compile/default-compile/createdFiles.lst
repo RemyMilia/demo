@@ -1,0 +1,4 @@
+entities/DayOfLife.class
+repository/IDayOfLifeRepository.class
+web/DayOfLifeController.class
+com/personalDashboard/DemoApplication.class
